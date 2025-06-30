@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy_Star_WArs_Game", "Galaxy_Star_WArs_Game\Galaxy_Star_WArs_Game.csproj", "{37FCFA00-7570-43E4-84BD-5FB0C2DC85C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37FCFA00-7570-43E4-84BD-5FB0C2DC85C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FCFA00-7570-43E4-84BD-5FB0C2DC85C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FCFA00-7570-43E4-84BD-5FB0C2DC85C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FCFA00-7570-43E4-84BD-5FB0C2DC85C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F8A68B-72AE-4A47-AC7C-60C5FD1D25A7}
+	EndGlobalSection
+EndGlobal
